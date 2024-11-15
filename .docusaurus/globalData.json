@@ -16,13 +16,13 @@
               "sidebar": "docsSidebar"
             },
             {
-              "id": "Linux/intro",
-              "path": "/joriscodes/Linux/intro",
+              "id": "linux/intro",
+              "path": "/joriscodes/linux/intro",
               "sidebar": "docsSidebar"
             },
             {
-              "id": "Programming/intro",
-              "path": "/joriscodes/Programming/intro",
+              "id": "programming/intro",
+              "path": "/joriscodes/programming/intro",
               "sidebar": "docsSidebar"
             },
             {

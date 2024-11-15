@@ -73,26 +73,16 @@ export default [
     exact: true
   },
   {
-    path: '/joriscodes/bu_index',
-    component: ComponentCreator('/joriscodes/bu_index', 'bba'),
-    exact: true
-  },
-  {
-    path: '/joriscodes/markdown-page',
-    component: ComponentCreator('/joriscodes/markdown-page', 'af5'),
-    exact: true
-  },
-  {
     path: '/joriscodes/',
-    component: ComponentCreator('/joriscodes/', '73e'),
+    component: ComponentCreator('/joriscodes/', '9a3'),
     routes: [
       {
         path: '/joriscodes/',
-        component: ComponentCreator('/joriscodes/', '4e5'),
+        component: ComponentCreator('/joriscodes/', 'e1f'),
         routes: [
           {
             path: '/joriscodes/',
-            component: ComponentCreator('/joriscodes/', '9b3'),
+            component: ComponentCreator('/joriscodes/', '93a'),
             routes: [
               {
                 path: '/joriscodes/category/linux',
@@ -113,14 +103,14 @@ export default [
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/Linux/intro',
-                component: ComponentCreator('/joriscodes/Linux/intro', 'c13'),
+                path: '/joriscodes/linux/intro',
+                component: ComponentCreator('/joriscodes/linux/intro', '62a'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/Programming/intro',
-                component: ComponentCreator('/joriscodes/Programming/intro', '569'),
+                path: '/joriscodes/programming/intro',
+                component: ComponentCreator('/joriscodes/programming/intro', 'dff'),
                 exact: true,
                 sidebar: "docsSidebar"
               },

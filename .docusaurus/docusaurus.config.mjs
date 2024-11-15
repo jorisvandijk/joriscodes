@@ -87,7 +87,7 @@ export default {
           "href": "https://codeberg.org/jorisvandijk/joriscodes"
         },
         {
-          "label": "Licenced under CC BY-SA 4.0",
+          "label": "Licensed under CC BY-SA 4.0",
           "href": "https://creativecommons.org/licenses/by-sa/4.0/"
         }
       ],

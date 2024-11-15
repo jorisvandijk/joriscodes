@@ -1,88 +1,88 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/joriscodes/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/joriscodes/",
+          "path": "/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/joriscodes/",
+              "path": "/",
               "sidebar": "docsSidebar"
             },
             {
               "id": "linux/automounting",
-              "path": "/joriscodes/linux/automounting",
+              "path": "/linux/automounting",
               "sidebar": "docsSidebar"
             },
             {
               "id": "linux/compose-key",
-              "path": "/joriscodes/linux/compose-key",
+              "path": "/linux/compose-key",
               "sidebar": "docsSidebar"
             },
             {
               "id": "linux/distraction-free-youtube",
-              "path": "/joriscodes/linux/distraction-free-youtube",
+              "path": "/linux/distraction-free-youtube",
               "sidebar": "docsSidebar"
             },
             {
               "id": "linux/global-playback-control",
-              "path": "/joriscodes/linux/global-playback-control",
+              "path": "/linux/global-playback-control",
               "sidebar": "docsSidebar"
             },
             {
               "id": "linux/Scripting/ArchMaintenance",
-              "path": "/joriscodes/linux/Scripting/ArchMaintenance",
+              "path": "/linux/Scripting/ArchMaintenance",
               "sidebar": "docsSidebar"
             },
             {
               "id": "linux/Scripting/ScreenShot",
-              "path": "/joriscodes/linux/Scripting/ScreenShot",
+              "path": "/linux/Scripting/ScreenShot",
               "sidebar": "docsSidebar"
             },
             {
               "id": "linux/thunar-text-file",
-              "path": "/joriscodes/linux/thunar-text-file",
+              "path": "/linux/thunar-text-file",
               "sidebar": "docsSidebar"
             },
             {
               "id": "programming/cpp-version",
-              "path": "/joriscodes/programming/cpp-version",
+              "path": "/programming/cpp-version",
               "sidebar": "docsSidebar"
             },
             {
               "id": "software/Firefox/extensions",
-              "path": "/joriscodes/software/Firefox/extensions",
+              "path": "/software/Firefox/extensions",
               "sidebar": "docsSidebar"
             },
             {
               "id": "software/Firefox/userChrome",
-              "path": "/joriscodes/software/Firefox/userChrome",
+              "path": "/software/Firefox/userChrome",
               "sidebar": "docsSidebar"
             },
             {
               "id": "software/Git/http-to-ssg",
-              "path": "/joriscodes/software/Git/http-to-ssg",
+              "path": "/software/Git/http-to-ssg",
               "sidebar": "docsSidebar"
             },
             {
               "id": "/category/linux",
-              "path": "/joriscodes/category/linux",
+              "path": "/category/linux",
               "sidebar": "docsSidebar"
             },
             {
               "id": "/category/programming",
-              "path": "/joriscodes/category/programming",
+              "path": "/category/programming",
               "sidebar": "docsSidebar"
             },
             {
               "id": "/category/software",
-              "path": "/joriscodes/category/software",
+              "path": "/category/software",
               "sidebar": "docsSidebar"
             }
           ],
@@ -90,7 +90,7 @@
           "sidebars": {
             "docsSidebar": {
               "link": {
-                "path": "/joriscodes/",
+                "path": "/",
                 "label": "intro"
               }
             }

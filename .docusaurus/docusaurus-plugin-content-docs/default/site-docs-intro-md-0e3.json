@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/joriscodes/",
+  "permalink": "/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/docs/intro.md",
@@ -21,6 +21,6 @@
   "sidebar": "docsSidebar",
   "next": {
     "title": "Linux",
-    "permalink": "/joriscodes/category/linux"
+    "permalink": "/category/linux"
   }
 }

@@ -3,174 +3,174 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/joriscodes/__docusaurus/debug',
-    component: ComponentCreator('/joriscodes/__docusaurus/debug', 'cbf'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/joriscodes/__docusaurus/debug/config',
-    component: ComponentCreator('/joriscodes/__docusaurus/debug/config', 'ac5'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
     exact: true
   },
   {
-    path: '/joriscodes/__docusaurus/debug/content',
-    component: ComponentCreator('/joriscodes/__docusaurus/debug/content', '9f6'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
-    path: '/joriscodes/__docusaurus/debug/globalData',
-    component: ComponentCreator('/joriscodes/__docusaurus/debug/globalData', '4e8'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
     exact: true
   },
   {
-    path: '/joriscodes/__docusaurus/debug/metadata',
-    component: ComponentCreator('/joriscodes/__docusaurus/debug/metadata', '5c6'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
     exact: true
   },
   {
-    path: '/joriscodes/__docusaurus/debug/registry',
-    component: ComponentCreator('/joriscodes/__docusaurus/debug/registry', '916'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
     exact: true
   },
   {
-    path: '/joriscodes/__docusaurus/debug/routes',
-    component: ComponentCreator('/joriscodes/__docusaurus/debug/routes', 'aaf'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
     exact: true
   },
   {
-    path: '/joriscodes/blog',
-    component: ComponentCreator('/joriscodes/blog', '656'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '321'),
     exact: true
   },
   {
-    path: '/joriscodes/blog/archive',
-    component: ComponentCreator('/joriscodes/blog/archive', '22b'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
-    path: '/joriscodes/blog/authors',
-    component: ComponentCreator('/joriscodes/blog/authors', '1ff'),
+    path: '/blog/authors',
+    component: ComponentCreator('/blog/authors', '0b7'),
     exact: true
   },
   {
-    path: '/joriscodes/blog/authors/joris',
-    component: ComponentCreator('/joriscodes/blog/authors/joris', '90c'),
+    path: '/blog/authors/joris',
+    component: ComponentCreator('/blog/authors/joris', '8f9'),
     exact: true
   },
   {
-    path: '/joriscodes/blog/hello-world',
-    component: ComponentCreator('/joriscodes/blog/hello-world', 'abf'),
+    path: '/blog/hello-world',
+    component: ComponentCreator('/blog/hello-world', '69f'),
     exact: true
   },
   {
-    path: '/joriscodes/blog/tags',
-    component: ComponentCreator('/joriscodes/blog/tags', 'd03'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '287'),
     exact: true
   },
   {
-    path: '/joriscodes/blog/tags/docusaurus',
-    component: ComponentCreator('/joriscodes/blog/tags/docusaurus', 'e1a'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus', '478'),
     exact: true
   },
   {
-    path: '/joriscodes/',
-    component: ComponentCreator('/joriscodes/', '96b'),
+    path: '/',
+    component: ComponentCreator('/', '768'),
     routes: [
       {
-        path: '/joriscodes/',
-        component: ComponentCreator('/joriscodes/', '65f'),
+        path: '/',
+        component: ComponentCreator('/', '7fc'),
         routes: [
           {
-            path: '/joriscodes/',
-            component: ComponentCreator('/joriscodes/', 'a98'),
+            path: '/',
+            component: ComponentCreator('/', '331'),
             routes: [
               {
-                path: '/joriscodes/category/linux',
-                component: ComponentCreator('/joriscodes/category/linux', '19f'),
+                path: '/category/linux',
+                component: ComponentCreator('/category/linux', '942'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/category/programming',
-                component: ComponentCreator('/joriscodes/category/programming', '302'),
+                path: '/category/programming',
+                component: ComponentCreator('/category/programming', '93f'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/category/software',
-                component: ComponentCreator('/joriscodes/category/software', '087'),
+                path: '/category/software',
+                component: ComponentCreator('/category/software', 'fc4'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/automounting',
-                component: ComponentCreator('/joriscodes/linux/automounting', '92f'),
+                path: '/linux/automounting',
+                component: ComponentCreator('/linux/automounting', '000'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/compose-key',
-                component: ComponentCreator('/joriscodes/linux/compose-key', '41b'),
+                path: '/linux/compose-key',
+                component: ComponentCreator('/linux/compose-key', 'c09'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/distraction-free-youtube',
-                component: ComponentCreator('/joriscodes/linux/distraction-free-youtube', '669'),
+                path: '/linux/distraction-free-youtube',
+                component: ComponentCreator('/linux/distraction-free-youtube', 'b7e'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/global-playback-control',
-                component: ComponentCreator('/joriscodes/linux/global-playback-control', '5d0'),
+                path: '/linux/global-playback-control',
+                component: ComponentCreator('/linux/global-playback-control', 'e6b'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/Scripting/ArchMaintenance',
-                component: ComponentCreator('/joriscodes/linux/Scripting/ArchMaintenance', 'ef7'),
+                path: '/linux/Scripting/ArchMaintenance',
+                component: ComponentCreator('/linux/Scripting/ArchMaintenance', '639'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/Scripting/ScreenShot',
-                component: ComponentCreator('/joriscodes/linux/Scripting/ScreenShot', '5e2'),
+                path: '/linux/Scripting/ScreenShot',
+                component: ComponentCreator('/linux/Scripting/ScreenShot', 'e6d'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/thunar-text-file',
-                component: ComponentCreator('/joriscodes/linux/thunar-text-file', 'bc4'),
+                path: '/linux/thunar-text-file',
+                component: ComponentCreator('/linux/thunar-text-file', 'fd8'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/programming/cpp-version',
-                component: ComponentCreator('/joriscodes/programming/cpp-version', 'c97'),
+                path: '/programming/cpp-version',
+                component: ComponentCreator('/programming/cpp-version', 'f98'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/software/Firefox/extensions',
-                component: ComponentCreator('/joriscodes/software/Firefox/extensions', '165'),
+                path: '/software/Firefox/extensions',
+                component: ComponentCreator('/software/Firefox/extensions', 'cd7'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/software/Firefox/userChrome',
-                component: ComponentCreator('/joriscodes/software/Firefox/userChrome', '7c1'),
+                path: '/software/Firefox/userChrome',
+                component: ComponentCreator('/software/Firefox/userChrome', 'a7c'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/software/Git/http-to-ssg',
-                component: ComponentCreator('/joriscodes/software/Git/http-to-ssg', '7b0'),
+                path: '/software/Git/http-to-ssg',
+                component: ComponentCreator('/software/Git/http-to-ssg', '1d8'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/',
-                component: ComponentCreator('/joriscodes/', '4d1'),
+                path: '/',
+                component: ComponentCreator('/', '8f3'),
                 exact: true,
                 sidebar: "docsSidebar"
               }

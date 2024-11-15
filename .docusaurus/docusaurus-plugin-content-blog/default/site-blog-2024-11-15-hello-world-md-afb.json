@@ -1,5 +1,5 @@
 {
-  "permalink": "/joriscodes/blog/hello-world",
+  "permalink": "/blog/hello-world",
   "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/blog/2024-11-15-hello-world.md",
   "source": "@site/blog/2024-11-15-hello-world.md",
   "title": "Hello World",
@@ -9,7 +9,7 @@
     {
       "inline": false,
       "label": "Docusaurus",
-      "permalink": "/joriscodes/blog/tags/docusaurus",
+      "permalink": "/blog/tags/docusaurus",
       "description": "Docusaurus tag description"
     }
   ],
@@ -21,9 +21,9 @@
       "title": "Silly",
       "url": "https://jorisvandijk.com",
       "page": {
-        "permalink": "/joriscodes/blog/authors/joris"
+        "permalink": "/blog/authors/joris"
       },
-      "imageURL": "/joriscodes/img/mrgreen.png",
+      "imageURL": "/img/mrgreen.png",
       "key": "joris"
     }
   ],

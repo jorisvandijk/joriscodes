@@ -8,7 +8,7 @@ export default {
   "tagline": "A public second brain",
   "favicon": "img/mrgreen.png",
   "url": "https://jorisvandijk.github.io",
-  "baseUrl": "/joriscodes/",
+  "baseUrl": "/",
   "organizationName": "jorisvandijk",
   "projectName": "joriscodes",
   "deploymentBranch": "main",

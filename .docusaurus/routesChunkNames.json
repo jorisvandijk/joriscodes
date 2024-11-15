@@ -2,55 +2,55 @@
   "/__docusaurus/debug-5ff": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/config-5ba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/content-a2b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
     "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
   "/__docusaurus/debug/globalData-c3c": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/metadata-156": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/registry-88c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/__docusaurus/debug/routes-000": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
   "/blog-321": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---joriscodes-blog-369-93e"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---joriscodes-blog-0-c-7-163"
+        "content": "content---blog-0-c-7-680"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -58,7 +58,7 @@
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---joriscodes-blog-369-93e"
+      "plugin": "plugin---blog-369-22e"
     },
     "__props": "__props---blog-archivef-81-229"
   },
@@ -66,57 +66,57 @@
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---joriscodes-blog-authorsace-c77"
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
       },
-      "plugin": "plugin---joriscodes-blog-369-93e"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authorsef-8-44f"
   },
   "/blog/authors/joris-8f9": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---joriscodes-blog-authorsace-c77"
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
       },
-      "plugin": "plugin---joriscodes-blog-369-93e"
+      "plugin": "plugin---blog-369-22e"
     },
     "items": [
       {
-        "content": "content---joriscodes-blog-0-c-7-163"
+        "content": "content---blog-0-c-7-680"
       }
     ],
-    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authors-jorisd-37-e50"
   },
   "/blog/hello-world-69f": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---joriscodes-blog-authorsace-c77"
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
       },
-      "plugin": "plugin---joriscodes-blog-369-93e"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "sidebar---joriscodes-blog-814-ebd",
-    "content": "content---joriscodes-blog-hello-worldafb-627"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-hello-worldafb-0af"
   },
   "/blog/tags-287": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---joriscodes-blog-369-93e"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-tags-3-a-2-fa2"
   },
   "/blog/tags/docusaurus-478": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---joriscodes-blog-369-93e"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---joriscodes-blog-0-c-7-163"
+        "content": "content---blog-0-c-7-680"
       }
     ],
     "__props": "__props---blog-tags-docusaurus-321-832"
@@ -124,7 +124,7 @@
   "/-768": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---joriscodes-aba-503"
+      "plugin": "plugin---aba-d70"
     }
   },
   "/-7fc": {
@@ -148,50 +148,50 @@
   },
   "/linux/automounting-000": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-automountingc-03-da6"
+    "content": "content---linux-automountingc-03-842"
   },
   "/linux/compose-key-c09": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-compose-key-6-ea-142"
+    "content": "content---linux-compose-key-6-ea-49a"
   },
   "/linux/distraction-free-youtube-b7e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-distraction-free-youtube-007-93a"
+    "content": "content---linux-distraction-free-youtube-007-8eb"
   },
   "/linux/global-playback-control-e6b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-global-playback-control-920-ab5"
+    "content": "content---linux-global-playback-control-920-87c"
   },
   "/linux/Scripting/ArchMaintenance-639": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-scripting-arch-maintenance-7-fb-05e"
+    "content": "content---linux-scripting-arch-maintenance-7-fb-7b8"
   },
   "/linux/Scripting/ScreenShot-e6d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-scripting-screen-shotd-33-e89"
+    "content": "content---linux-scripting-screen-shotd-33-8d7"
   },
   "/linux/thunar-text-file-fd8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-thunar-text-file-55-b-c28"
+    "content": "content---linux-thunar-text-file-55-b-8c1"
   },
   "/programming/cpp-version-f98": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-programming-cpp-version-2-bc-25b"
+    "content": "content---programming-cpp-version-2-bc-c8c"
   },
   "/software/Firefox/extensions-cd7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-software-firefox-extensionsc-5-b-df6"
+    "content": "content---software-firefox-extensionsc-5-b-0fc"
   },
   "/software/Firefox/userChrome-a7c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-software-firefox-user-chromee-9-e-fd2"
+    "content": "content---software-firefox-user-chromee-9-e-8aa"
   },
   "/software/Git/http-to-ssg-1d8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-software-git-http-to-ssgee-0-4ea"
+    "content": "content---software-git-http-to-ssgee-0-aeb"
   },
   "/-8f3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-0-e-3-5f6"
+    "content": "content---0-e-3-279"
   }
 }

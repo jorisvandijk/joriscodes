@@ -3,22 +3,21 @@
   "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/blog/2024-11-15-hello-world.md",
   "source": "@site/blog/2024-11-15-hello-world.md",
   "title": "Hello World",
-  "description": "This is the hello world post for this new website!",
+  "description": "I've written a number of Hello World posts in the past and I doubt this will be the last one. This time around I'm writing it to welcome this new website focused on storing knowledge. A second brain, if you will. It will focus mostly on Linux, programming, software and other things I find interesting.",
   "date": "2024-11-15T00:00:00.000Z",
   "tags": [
     {
-      "inline": false,
+      "inline": true,
       "label": "Docusaurus",
-      "permalink": "/blog/tags/docusaurus",
-      "description": "Docusaurus tag description"
+      "permalink": "/blog/tags/docusaurus"
     }
   ],
-  "readingTime": 0.105,
+  "readingTime": 1.775,
   "hasTruncateMarker": true,
   "authors": [
     {
       "name": "Joris van Dijk",
-      "title": "Silly",
+      "title": "Living on Linux",
       "url": "https://jorisvandijk.com",
       "page": {
         "permalink": "/blog/authors/joris"
@@ -32,7 +31,7 @@
     "title": "Hello World",
     "authors": "joris",
     "tags": [
-      "docusaurus"
+      "Docusaurus"
     ]
   },
   "unlisted": false

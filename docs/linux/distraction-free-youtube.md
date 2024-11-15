@@ -37,7 +37,9 @@ touch $HOME/.config/newsboat/urls && touch $HOME/.config/newsboat/config
 ### urls
 In order to follow a channel, we'll need to add a link to its RSS feed in the urls file. This requires us to get their channel ID's. We'll go to a channel's page in our web browser and open the source for the page by right-clicking on the page and selecting the correct option. We then press `CTRL+f` to search for "`/U`". After a bit of side-to side scrolling we'll find the channel ID.
 
-[![Previous website](/img/channel_id_thumb.png)](/img/channel_id.png)
+<center>
+[![Channel ID](/img/channel_id_thumb.png)](/img/channel_id.png)
+</center>
 
 This we then copy and paste in Newsboat's URL file in `$HOME/.config/newsboat/urls` in the following manner, where `CHANNEL_ID_HERE` has to be replaced by the actual channel ID and `CHANNEL_NAME_HERE` has to be replaced by the channel's name:
 

@@ -1,5 +1,5 @@
-docusaurus:
+Docusaurus:
   label: Docusaurus
   permalink: /docusaurus
-  description: Docusaurus tag description
+  description: The static site generator used for this website.
 

@@ -7,9 +7,10 @@
   "date": "2024-11-15T00:00:00.000Z",
   "tags": [
     {
-      "inline": true,
+      "inline": false,
       "label": "Docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
     }
   ],
   "readingTime": 2.01,

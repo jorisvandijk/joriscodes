@@ -1,0 +1,23 @@
+{
+  "id": "Programming/congratulations",
+  "title": "Programming",
+  "description": "All about programming here!",
+  "source": "@site/docs/Programming/congratulations.md",
+  "sourceDirName": "Programming",
+  "slug": "/Programming/congratulations",
+  "permalink": "/joriscodes/Programming/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/docs/Programming/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Programming",
+    "permalink": "/joriscodes/category/programming"
+  }
+}

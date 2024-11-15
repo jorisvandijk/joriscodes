@@ -1,0 +1,23 @@
+{
+  "id": "Programming copy/intro",
+  "title": "Programming",
+  "description": "All about programming here!",
+  "source": "@site/docs/Programming copy/intro.md",
+  "sourceDirName": "Programming copy",
+  "slug": "/Programming copy/intro",
+  "permalink": "/joriscodes/Programming copy/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/docs/Programming copy/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Programming",
+    "permalink": "/joriscodes/category/programming-1"
+  }
+}

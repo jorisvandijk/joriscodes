@@ -1,0 +1,24 @@
+{
+  "id": "intro",
+  "title": "Welcome",
+  "description": "This will be the home page for my new website.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/joriscodes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Linux",
+    "permalink": "/joriscodes/category/linux"
+  }
+}

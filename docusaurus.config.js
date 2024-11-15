@@ -12,7 +12,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Joris.codes',
   tagline: 'A public second brain',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/mrgreen.png',
 
   // Set the production url of your site here
   url: 'https://jorisvandijk.github.io/',
@@ -44,11 +44,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://codeberg.org/jorisvandijk/joriscodes',
+            'https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/',
         },
         blog: {
           showReadingTime: true,
@@ -59,7 +60,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://codeberg.org/jorisvandijk/joriscodes',
+            'https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -75,70 +76,37 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.png',
+      image: 'img/mrgreen.png',
       navbar: {
         title: 'Joris.codes',
         logo: {
           alt: 'Joris.codes Logo',
-          src: 'img/logo.svg',
+          src: 'img/mrgreen.png',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            href: 'https://codeberg.org/jorisvandijk/joriscodes',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            label: 'Submit an issue',
+            href: 'https://codeberg.org/jorisvandijk/joriscodes/issues',
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
+            label: 'Source',
+            href: 'https://codeberg.org/jorisvandijk/joriscodes',
           },
           {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://codeberg.org/jorisvandijk/joriscodes',
-              },
-            ],
+            label: 'Licenced under CC BY-SA 4.0',
+            href: 'https://creativecommons.org/licenses/by-sa/4.0/',
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Joris van Dijk`,

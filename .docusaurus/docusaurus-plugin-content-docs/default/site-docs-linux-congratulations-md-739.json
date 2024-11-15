@@ -1,0 +1,27 @@
+{
+  "id": "Linux/congratulations",
+  "title": "Linux",
+  "description": "All about Linux here!",
+  "source": "@site/docs/Linux/congratulations.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/congratulations",
+  "permalink": "/joriscodes/Linux/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/docs/Linux/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/joriscodes/category/linux"
+  },
+  "next": {
+    "title": "Programming",
+    "permalink": "/joriscodes/category/programming"
+  }
+}

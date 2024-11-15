@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/joriscodes/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/joriscodes/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/joriscodes/",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "Linux/intro",
+              "path": "/joriscodes/Linux/intro",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "Programming/intro",
+              "path": "/joriscodes/Programming/intro",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "software/intro",
+              "path": "/joriscodes/software/intro",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/linux",
+              "path": "/joriscodes/category/linux",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/programming",
+              "path": "/joriscodes/category/programming",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/software",
+              "path": "/joriscodes/category/software",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/joriscodes/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

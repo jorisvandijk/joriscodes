@@ -1,0 +1,179 @@
+{
+  "/joriscodes/__docusaurus/debug-cbf": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+    }
+  },
+  "/joriscodes/__docusaurus/debug/config-ac5": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+    }
+  },
+  "/joriscodes/__docusaurus/debug/content-9f6": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+    },
+    "__props": "__props---joriscodes-docusaurus-debug-content-50-b-69b"
+  },
+  "/joriscodes/__docusaurus/debug/globalData-4e8": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+    }
+  },
+  "/joriscodes/__docusaurus/debug/metadata-5c6": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+    }
+  },
+  "/joriscodes/__docusaurus/debug/registry-916": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+    }
+  },
+  "/joriscodes/__docusaurus/debug/routes-aaf": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---joriscodes-docusaurus-debugb-38-795"
+    }
+  },
+  "/joriscodes/blog-656": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---joriscodes-blog-369-93e"
+    },
+    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "items": [
+      {
+        "content": "content---joriscodes-blog-0-c-7-163"
+      }
+    ],
+    "__props": "__props---joriscodes-blogcc-4-35f"
+  },
+  "/joriscodes/blog/archive-22b": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---joriscodes-blog-369-93e"
+    },
+    "__props": "__props---joriscodes-blog-archivebb-1-fd0"
+  },
+  "/joriscodes/blog/authors-1ff": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---joriscodes-blog-authorsace-c77"
+      },
+      "plugin": "plugin---joriscodes-blog-369-93e"
+    },
+    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "__props": "__props---joriscodes-blog-authorscec-130"
+  },
+  "/joriscodes/blog/authors/joris-90c": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---joriscodes-blog-authorsace-c77"
+      },
+      "plugin": "plugin---joriscodes-blog-369-93e"
+    },
+    "items": [
+      {
+        "content": "content---joriscodes-blog-0-c-7-163"
+      }
+    ],
+    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "__props": "__props---joriscodes-blog-authors-jorisb-52-6e4"
+  },
+  "/joriscodes/blog/hello-world-abf": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---joriscodes-blog-authorsace-c77"
+      },
+      "plugin": "plugin---joriscodes-blog-369-93e"
+    },
+    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "content": "content---joriscodes-blog-hello-worldafb-627"
+  },
+  "/joriscodes/blog/tags-d03": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---joriscodes-blog-369-93e"
+    },
+    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "__props": "__props---joriscodes-blog-tags-90-b-39c"
+  },
+  "/joriscodes/blog/tags/docusaurus-e1a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---joriscodes-blog-369-93e"
+    },
+    "sidebar": "sidebar---joriscodes-blog-814-ebd",
+    "items": [
+      {
+        "content": "content---joriscodes-blog-0-c-7-163"
+      }
+    ],
+    "__props": "__props---joriscodes-blog-tags-docusaurus-0-f-5-b18"
+  },
+  "/joriscodes/bu_index-bba": {
+    "__comp": "__comp---site-src-pages-bu-index-js-01-b-e44",
+    "__context": {
+      "plugin": "plugin---joriscodes-bu-indexa-74-cff"
+    },
+    "config": "config---joriscodes-bu-index-5-e-9-80a"
+  },
+  "/joriscodes/markdown-page-af5": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---joriscodes-bu-indexa-74-cff"
+    },
+    "content": "content---joriscodes-markdown-page-393-5b1"
+  },
+  "/joriscodes/-73e": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---joriscodes-aba-503"
+    }
+  },
+  "/joriscodes/-4e5": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---joriscodes-08-d-fe6"
+  },
+  "/joriscodes/-9b3": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/joriscodes/category/linux-19f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---joriscodes-category-linux-51-c-657"
+  },
+  "/joriscodes/category/programming-302": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---joriscodes-category-programming-0-ec-65e"
+  },
+  "/joriscodes/category/software-087": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---joriscodes-category-software-1-a-2-392"
+  },
+  "/joriscodes/Linux/intro-c13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-linux-intro-683-acf"
+  },
+  "/joriscodes/Programming/intro-569": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-programming-introda-9-f7f"
+  },
+  "/joriscodes/software/intro-c40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-software-intro-63-c-58f"
+  },
+  "/joriscodes/-2fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-0-e-3-5f6"
+  }
+}

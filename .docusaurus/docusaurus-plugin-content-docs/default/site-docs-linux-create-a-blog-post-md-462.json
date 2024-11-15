@@ -1,0 +1,27 @@
+{
+  "id": "Linux/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/Linux/create-a-blog-post.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/create-a-blog-post",
+  "permalink": "/joriscodes/Linux/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/docs/Linux/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/joriscodes/Linux/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/joriscodes/Linux/markdown-features"
+  }
+}

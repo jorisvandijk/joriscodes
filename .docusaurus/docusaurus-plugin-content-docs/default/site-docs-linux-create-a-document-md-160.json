@@ -1,0 +1,27 @@
+{
+  "id": "Linux/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/Linux/create-a-document.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/create-a-document",
+  "permalink": "/joriscodes/Linux/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/docs/Linux/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/joriscodes/Linux/create-a-page"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/joriscodes/Linux/markdown-features"
+  }
+}

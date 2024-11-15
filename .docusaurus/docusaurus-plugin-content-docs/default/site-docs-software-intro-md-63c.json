@@ -1,0 +1,23 @@
+{
+  "id": "software/intro",
+  "title": "Software",
+  "description": "All about software here!",
+  "source": "@site/docs/software/intro.md",
+  "sourceDirName": "software",
+  "slug": "/software/intro",
+  "permalink": "/joriscodes/software/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/docs/software/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Software",
+    "permalink": "/joriscodes/category/software"
+  }
+}

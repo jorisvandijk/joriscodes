@@ -1,0 +1,39 @@
+{
+  "permalink": "/joriscodes/blog/hello-world",
+  "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/blog/2024-11-15-hello-world.md",
+  "source": "@site/blog/2024-11-15-hello-world.md",
+  "title": "Hello World",
+  "description": "This is the hello world post for this new website!",
+  "date": "2024-11-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/joriscodes/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 0.105,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Joris van Dijk",
+      "title": "Silly",
+      "url": "https://jorisvandijk.com",
+      "page": {
+        "permalink": "/joriscodes/blog/authors/joris"
+      },
+      "imageURL": "/joriscodes/img/mrgreen.png",
+      "key": "joris"
+    }
+  ],
+  "frontMatter": {
+    "slug": "hello-world",
+    "title": "Hello World",
+    "authors": "joris",
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "unlisted": false
+}

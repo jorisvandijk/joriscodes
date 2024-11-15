@@ -1,3 +1,7 @@
+---
+tags: [Arch, Linux, fzf]
+---
+
 # Installing software on Arch Linux with fzf
 Fuzzy file finding is amazing. It really is. You can search a query containing at least part of what you're looking for and it'll find it. It's like magic. My fuzzy file finder of choice is called [fzf](https://github.com/junegunn/fzf).
 

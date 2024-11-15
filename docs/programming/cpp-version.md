@@ -1,3 +1,7 @@
+---
+tags: [C++, Programming]
+---
+
 # Check C++ version
 Create a file called `version.cpp` and add the following code:
 

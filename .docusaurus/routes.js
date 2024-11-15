@@ -79,15 +79,100 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '768'),
+    component: ComponentCreator('/', '116'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '7fc'),
+        component: ComponentCreator('/', 'de4'),
         routes: [
           {
+            path: '/tags',
+            component: ComponentCreator('/tags', 'ce1'),
+            exact: true
+          },
+          {
+            path: '/tags/arch',
+            component: ComponentCreator('/tags/arch', '2a3'),
+            exact: true
+          },
+          {
+            path: '/tags/c',
+            component: ComponentCreator('/tags/c', '681'),
+            exact: true
+          },
+          {
+            path: '/tags/dotfiles',
+            component: ComponentCreator('/tags/dotfiles', '696'),
+            exact: true
+          },
+          {
+            path: '/tags/firefox',
+            component: ComponentCreator('/tags/firefox', '1b1'),
+            exact: true
+          },
+          {
+            path: '/tags/fzf',
+            component: ComponentCreator('/tags/fzf', '15a'),
+            exact: true
+          },
+          {
+            path: '/tags/git',
+            component: ComponentCreator('/tags/git', 'ff3'),
+            exact: true
+          },
+          {
+            path: '/tags/kitty',
+            component: ComponentCreator('/tags/kitty', '904'),
+            exact: true
+          },
+          {
+            path: '/tags/linux',
+            component: ComponentCreator('/tags/linux', '371'),
+            exact: true
+          },
+          {
+            path: '/tags/micro',
+            component: ComponentCreator('/tags/micro', '21f'),
+            exact: true
+          },
+          {
+            path: '/tags/mpv',
+            component: ComponentCreator('/tags/mpv', '912'),
+            exact: true
+          },
+          {
+            path: '/tags/newsboat',
+            component: ComponentCreator('/tags/newsboat', '968'),
+            exact: true
+          },
+          {
+            path: '/tags/programming',
+            component: ComponentCreator('/tags/programming', '4c2'),
+            exact: true
+          },
+          {
+            path: '/tags/scripting',
+            component: ComponentCreator('/tags/scripting', '247'),
+            exact: true
+          },
+          {
+            path: '/tags/sxhkd',
+            component: ComponentCreator('/tags/sxhkd', 'a27'),
+            exact: true
+          },
+          {
+            path: '/tags/thunar',
+            component: ComponentCreator('/tags/thunar', 'dea'),
+            exact: true
+          },
+          {
+            path: '/tags/you-tube',
+            component: ComponentCreator('/tags/you-tube', '574'),
+            exact: true
+          },
+          {
             path: '/',
-            component: ComponentCreator('/', '331'),
+            component: ComponentCreator('/', '39e'),
             routes: [
               {
                 path: '/category/linux',
@@ -126,8 +211,20 @@ export default [
                 sidebar: "docsSidebar"
               },
               {
+                path: '/linux/fzf-and-arch-software-install',
+                component: ComponentCreator('/linux/fzf-and-arch-software-install', '955'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
                 path: '/linux/global-playback-control',
                 component: ComponentCreator('/linux/global-playback-control', 'e6b'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/linux/managing-dotfiles',
+                component: ComponentCreator('/linux/managing-dotfiles', '7e9'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
@@ -140,6 +237,12 @@ export default [
               {
                 path: '/linux/Scripting/ScreenShot',
                 component: ComponentCreator('/linux/Scripting/ScreenShot', 'e6d'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/linux/sorting-movie-directory',
+                component: ComponentCreator('/linux/sorting-movie-directory', 'd9c'),
                 exact: true,
                 sidebar: "docsSidebar"
               },

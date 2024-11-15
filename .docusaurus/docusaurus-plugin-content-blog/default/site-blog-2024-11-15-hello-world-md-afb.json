@@ -10,7 +10,7 @@
       "inline": false,
       "label": "Docusaurus",
       "permalink": "/blog/tags/docusaurus",
-      "description": "Docusaurus tag description"
+      "description": "The static site generator used for this website."
     }
   ],
   "readingTime": 2.01,

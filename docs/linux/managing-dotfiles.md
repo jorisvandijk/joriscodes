@@ -1,3 +1,7 @@
+---
+tags: [Linux, Dotfiles]
+---
+
 # Managing dotfiles
 Everyone handles backing up their dotfiles in their own way. Some people use GNU Stow, some manually back them up, some don't bother and some have a script. I have a script.
 

@@ -1,3 +1,7 @@
+---
+tags: [Linux, YouTube, MPV, Newsboat]
+---
+
 # Distraction free YouTube videos
 I'm trying to only enjoy content I like. I try not to get involved in social media. Not to get into that trap of watching one thing followed by the next, and then the next thing. I don't do Twiter, I don't do Facebook, I don't do Instagram, I don't do Tiktok. I do like some content on YouTube. This presents me with a problem. If I were to go to the site they offer, I'd watch the video I came for and then I'd watch the next one they offer, and then the following and then... well, you get the idea. This is a rabbit hole I want to not get into. Hence I found a solution to this, by making sure I only watch what I like and nothing more.
 

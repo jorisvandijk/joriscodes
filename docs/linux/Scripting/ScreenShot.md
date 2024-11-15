@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+tags: [Linux, Scripting]
 ---
 
 # ScreenShot 
@@ -41,5 +42,5 @@ Take a partial screenshot:
 ./ScreenShot p
 ```
 :::tip
-Obviously it's best to use this script in a key binding. To see how I use it, check out my dotfiles. 
+Obviously it's best to use this script in a key binding. To see how I use it, check out my [dotfiles](https://joris.codes/#dotfiles). 
 :::

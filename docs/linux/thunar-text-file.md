@@ -1,3 +1,7 @@
+---
+tags: [Linux, Kitty, Micro, Thunar]
+---
+
 # Open text file in a terminal editor from Thunar
 For some reason I like to use [Thunar](https://docs.xfce.org/xfce/thunar/start) as a file manager. It's been my go-to for years now. It has worked a treat for ages, however I used to want to edit text files (like configuration files) in [Code](https://code.visualstudio.com/) (the editor). I don't anymore. I want to be able to edit those files in [Micro](https://micro-editor.github.io/), which runs in the terminal.
 

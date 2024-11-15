@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+tags: [Linux, Arch, Scripting]
 ---
 
 # Arch Linux Maintenance
@@ -57,4 +58,4 @@ printf "\n${GRN}>> Done!${NC}\n"
 
 ```
 
-An up to date version of this script can be found in my dotfiles.
+An up to date version of this script can be found in my [dotfiles](https://joris.codes/#dotfiles).

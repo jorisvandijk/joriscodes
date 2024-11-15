@@ -1,3 +1,7 @@
+---
+tags: [Linux]
+---
+
 # Compose key
 For the longest time I have disabled my CapsLock key. I used to hit it from time to time and get annoyed by having to redo the bit I was typing, but this time not in all caps. For a little while I also used it in a keybinding, but found that using `VoidSymbol` (the key it will register as when disabled) is flakey. So this left me with a big button, right on the home row of my keyboard that does nothing at all, which is a waste.
 

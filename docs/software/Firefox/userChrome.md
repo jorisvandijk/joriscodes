@@ -1,4 +1,5 @@
 ---
+tags: [Linux, Firefox]
 sidebar_position: 1
 ---
 

@@ -31,8 +31,18 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "linux/fzf-and-arch-software-install",
+              "path": "/linux/fzf-and-arch-software-install",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "linux/global-playback-control",
               "path": "/linux/global-playback-control",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/managing-dotfiles",
+              "path": "/linux/managing-dotfiles",
               "sidebar": "docsSidebar"
             },
             {
@@ -43,6 +53,11 @@
             {
               "id": "linux/Scripting/ScreenShot",
               "path": "/linux/Scripting/ScreenShot",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/sorting-movie-directory",
+              "path": "/linux/sorting-movie-directory",
               "sidebar": "docsSidebar"
             },
             {

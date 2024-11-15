@@ -1,3 +1,7 @@
+---
+tags: [Linux]
+---
+
 # Auto mounting a drive
 
 <center>

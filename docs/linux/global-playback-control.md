@@ -1,3 +1,7 @@
+---
+tags: [Linux, MPV, SXHKD]
+---
+
 # Global playback control
 I love to use [MPRIS](https://wiki.archlinux.org/title/MPRIS) (Media Player Remote Interfacing Specification), which is a standard DBUS interface to manage (among other things) audio playback on your system. I use it through `playerctl`, which is a command line utility which provides a command line interface to media players that support MPRIS.
 

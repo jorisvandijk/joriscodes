@@ -127,17 +127,85 @@
       "plugin": "plugin---searchc-14-0ea"
     }
   },
-  "/-768": {
+  "/-116": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-7fc": {
+  "/-de4": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-331": {
+  "/tags-ce1": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---tags-59-a-1ee"
+  },
+  "/tags/arch-2a3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-arch-285-03f"
+  },
+  "/tags/c-681": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-ccbe-232"
+  },
+  "/tags/dotfiles-696": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-dotfiles-4-b-6-4a5"
+  },
+  "/tags/firefox-1b1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-firefoxb-06-2d4"
+  },
+  "/tags/fzf-15a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-fzfda-6-9cd"
+  },
+  "/tags/git-ff3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-git-609-0f0"
+  },
+  "/tags/kitty-904": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-kittycb-0-a06"
+  },
+  "/tags/linux-371": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-linuxd-0-a-f3a"
+  },
+  "/tags/micro-21f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-micro-3-e-6-e95"
+  },
+  "/tags/mpv-912": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-mpvb-48-4cc"
+  },
+  "/tags/newsboat-968": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-newsboatd-85-36b"
+  },
+  "/tags/programming-4c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-programming-992-4cf"
+  },
+  "/tags/scripting-247": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-scriptingb-02-b33"
+  },
+  "/tags/sxhkd-a27": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-sxhkde-62-e87"
+  },
+  "/tags/thunar-dea": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-thunar-682-185"
+  },
+  "/tags/you-tube-574": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---tags-you-tubeb-3-a-2ec"
+  },
+  "/-39e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/category/linux-942": {
@@ -164,9 +232,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---linux-distraction-free-youtube-007-8eb"
   },
+  "/linux/fzf-and-arch-software-install-955": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---linux-fzf-and-arch-software-install-84-a-287"
+  },
   "/linux/global-playback-control-e6b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---linux-global-playback-control-920-87c"
+  },
+  "/linux/managing-dotfiles-7e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---linux-managing-dotfiles-901-8a0"
   },
   "/linux/Scripting/ArchMaintenance-639": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -175,6 +251,10 @@
   "/linux/Scripting/ScreenShot-e6d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---linux-scripting-screen-shotd-33-8d7"
+  },
+  "/linux/sorting-movie-directory-d9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---linux-sorting-movie-directory-9-ac-b7b"
   },
   "/linux/thunar-text-file-fd8": {
     "__comp": "__comp---theme-doc-item-178-a40",

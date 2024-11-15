@@ -30,7 +30,9 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/"
+          "editUrl": "https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/",
+          "showLastUpdateAuthor": true,
+          "showLastUpdateTime": true
         },
         "blog": {
           "showReadingTime": true,
@@ -285,7 +287,13 @@ export default {
           }
         ]
       },
-      "additionalLanguages": [],
+      "additionalLanguages": [
+        "markdown",
+        "cpp",
+        "c",
+        "bash",
+        "css"
+      ],
       "magicComments": [
         {
           "className": "theme-code-block-highlighted-line",

@@ -50,6 +50,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://codeberg.org/jorisvandijk/joriscodes/src/branch/main/',
+          showLastUpdateAuthor: true, // Show the author's name
+          showLastUpdateTime: true,  // Show the last update timestamp
         },
         blog: {
           showReadingTime: true,
@@ -72,7 +74,6 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -114,6 +115,8 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+        // Find more at: https://prismjs.com/#supported-languages
+        additionalLanguages: ['markdown', 'cpp', 'c', 'bash', 'css'],
       },
     }),
 };

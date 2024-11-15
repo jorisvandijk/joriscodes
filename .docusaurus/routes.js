@@ -74,15 +74,15 @@ export default [
   },
   {
     path: '/joriscodes/',
-    component: ComponentCreator('/joriscodes/', '9a3'),
+    component: ComponentCreator('/joriscodes/', '937'),
     routes: [
       {
         path: '/joriscodes/',
-        component: ComponentCreator('/joriscodes/', 'e1f'),
+        component: ComponentCreator('/joriscodes/', '231'),
         routes: [
           {
             path: '/joriscodes/',
-            component: ComponentCreator('/joriscodes/', '93a'),
+            component: ComponentCreator('/joriscodes/', '4c3'),
             routes: [
               {
                 path: '/joriscodes/category/linux',
@@ -103,26 +103,44 @@ export default [
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/intro',
-                component: ComponentCreator('/joriscodes/linux/intro', '62a'),
+                path: '/joriscodes/linux/Scripting/arch-maintanence',
+                component: ComponentCreator('/joriscodes/linux/Scripting/arch-maintanence', '982'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/linux/thunar-text-file',
+                component: ComponentCreator('/joriscodes/linux/thunar-text-file', 'bc4'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
                 path: '/joriscodes/programming/intro',
-                component: ComponentCreator('/joriscodes/programming/intro', 'dff'),
+                component: ComponentCreator('/joriscodes/programming/intro', '890'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/software/intro',
-                component: ComponentCreator('/joriscodes/software/intro', 'c40'),
+                path: '/joriscodes/software/Firefox/extensions',
+                component: ComponentCreator('/joriscodes/software/Firefox/extensions', '165'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/software/Firefox/userChrome',
+                component: ComponentCreator('/joriscodes/software/Firefox/userChrome', '7c1'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/software/Git/http-to-ssg',
+                component: ComponentCreator('/joriscodes/software/Git/http-to-ssg', '7b0'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
               {
                 path: '/joriscodes/',
-                component: ComponentCreator('/joriscodes/', '2fb'),
+                component: ComponentCreator('/joriscodes/', '4d1'),
                 exact: true,
                 sidebar: "docsSidebar"
               }

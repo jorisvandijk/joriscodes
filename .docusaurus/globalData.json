@@ -16,8 +16,13 @@
               "sidebar": "docsSidebar"
             },
             {
-              "id": "linux/intro",
-              "path": "/joriscodes/linux/intro",
+              "id": "linux/Scripting/arch-maintanence",
+              "path": "/joriscodes/linux/Scripting/arch-maintanence",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/thunar-text-file",
+              "path": "/joriscodes/linux/thunar-text-file",
               "sidebar": "docsSidebar"
             },
             {
@@ -26,8 +31,18 @@
               "sidebar": "docsSidebar"
             },
             {
-              "id": "software/intro",
-              "path": "/joriscodes/software/intro",
+              "id": "software/Firefox/extensions",
+              "path": "/joriscodes/software/Firefox/extensions",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "software/Firefox/userChrome",
+              "path": "/joriscodes/software/Firefox/userChrome",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "software/Git/http-to-ssg",
+              "path": "/joriscodes/software/Git/http-to-ssg",
               "sidebar": "docsSidebar"
             },
             {

@@ -8,7 +8,7 @@ tags: [Docusaurus]
 # Hello World
 I've written a number of Hello World posts in the past and I doubt this will be the last one. This time around I'm writing it to welcome this new website focused on storing knowledge. A second brain, if you will. It will focus mostly on Linux, programming, software and other things I find interesting.
 <!-- truncate -->
-This website is built with [Docusaurus](https://docusaurus.io/) and is hosted on [GitHub Pages](https://pages.github.com/), though I am linking to the [Codeberg repository](https://codeberg.org/joris/joriscodes) as the source, as that mirrors to GitHub (Don't ask).
+This website is built with [Docusaurus](https://docusaurus.io/) and is hosted on [GitHub Pages](https://pages.github.com/), though I am linking to the [Codeberg repository](https://codeberg.org/jorisvandijk/joriscodes) as the source, as that mirrors to GitHub (Don't ask).
 
 The content of this site is taken mostly from my website at [Jorisvandijk.com](https://jorisvandijk.com), which this may replace at some point. I realized that the knowledge stored there was hard to find, for me and hence probably also for others. I found myself going back to the site and endlessly searching for things and I thought: why not make this easier?
 

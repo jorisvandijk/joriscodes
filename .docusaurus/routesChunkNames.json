@@ -121,6 +121,12 @@
     ],
     "__props": "__props---blog-tags-docusaurus-321-832"
   },
+  "/search-5de": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchc-14-0ea"
+    }
+  },
   "/-768": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {

@@ -55,6 +55,20 @@ export default {
     ]
   ],
   "themeConfig": {
+    "algolia": {
+      "appId": "G8QN0TPKVC",
+      "apiKey": "a4b0f51adfd60b938aa7304f76f07f73",
+      "indexName": "joris",
+      "contextualSearch": true,
+      "externalUrlRegex": "external\\.com|domain\\.com",
+      "replaceSearchResultPathname": {
+        "from": "/docs/",
+        "to": "/"
+      },
+      "searchParameters": {},
+      "searchPagePath": "search",
+      "insights": false
+    },
     "image": "img/mrgreen.png",
     "navbar": {
       "title": "Joris.codes",

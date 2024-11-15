@@ -106,7 +106,6 @@ const config = {
 
         // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
         insights: false,
-
       },
       image: 'img/mrgreen.png',
       navbar: {
@@ -124,6 +123,11 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
         ],
+      },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
       },
       footer: {
         style: 'dark',

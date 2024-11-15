@@ -74,15 +74,15 @@ export default [
   },
   {
     path: '/joriscodes/',
-    component: ComponentCreator('/joriscodes/', '937'),
+    component: ComponentCreator('/joriscodes/', '96b'),
     routes: [
       {
         path: '/joriscodes/',
-        component: ComponentCreator('/joriscodes/', '231'),
+        component: ComponentCreator('/joriscodes/', '65f'),
         routes: [
           {
             path: '/joriscodes/',
-            component: ComponentCreator('/joriscodes/', '4c3'),
+            component: ComponentCreator('/joriscodes/', 'a98'),
             routes: [
               {
                 path: '/joriscodes/category/linux',
@@ -103,8 +103,38 @@ export default [
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/linux/Scripting/arch-maintanence',
-                component: ComponentCreator('/joriscodes/linux/Scripting/arch-maintanence', '982'),
+                path: '/joriscodes/linux/automounting',
+                component: ComponentCreator('/joriscodes/linux/automounting', '92f'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/linux/compose-key',
+                component: ComponentCreator('/joriscodes/linux/compose-key', '41b'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/linux/distraction-free-youtube',
+                component: ComponentCreator('/joriscodes/linux/distraction-free-youtube', '669'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/linux/global-playback-control',
+                component: ComponentCreator('/joriscodes/linux/global-playback-control', '5d0'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/linux/Scripting/ArchMaintenance',
+                component: ComponentCreator('/joriscodes/linux/Scripting/ArchMaintenance', 'ef7'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/joriscodes/linux/Scripting/ScreenShot',
+                component: ComponentCreator('/joriscodes/linux/Scripting/ScreenShot', '5e2'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
@@ -115,8 +145,8 @@ export default [
                 sidebar: "docsSidebar"
               },
               {
-                path: '/joriscodes/programming/intro',
-                component: ComponentCreator('/joriscodes/programming/intro', '890'),
+                path: '/joriscodes/programming/cpp-version',
+                component: ComponentCreator('/joriscodes/programming/cpp-version', 'c97'),
                 exact: true,
                 sidebar: "docsSidebar"
               },

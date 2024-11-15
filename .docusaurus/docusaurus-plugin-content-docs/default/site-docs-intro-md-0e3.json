@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Welcome",
-  "description": "This will be the home page for my new website.",
+  "description": "This website is a collection of my notes, tips and tricks that I've collected over the years. It mainly focusses on Linux, software, coding and other computer related topics.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",

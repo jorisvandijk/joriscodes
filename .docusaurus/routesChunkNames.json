@@ -121,17 +121,17 @@
     ],
     "__props": "__props---joriscodes-blog-tags-docusaurus-0-f-5-b18"
   },
-  "/joriscodes/-937": {
+  "/joriscodes/-96b": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---joriscodes-aba-503"
     }
   },
-  "/joriscodes/-231": {
+  "/joriscodes/-65f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---joriscodes-08-d-fe6"
   },
-  "/joriscodes/-4c3": {
+  "/joriscodes/-a98": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/joriscodes/category/linux-19f": {
@@ -146,17 +146,37 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---joriscodes-category-software-1-a-2-392"
   },
-  "/joriscodes/linux/Scripting/arch-maintanence-982": {
+  "/joriscodes/linux/automounting-92f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-linux-scripting-arch-maintanence-18-d-508"
+    "content": "content---joriscodes-linux-automountingc-03-da6"
+  },
+  "/joriscodes/linux/compose-key-41b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-linux-compose-key-6-ea-142"
+  },
+  "/joriscodes/linux/distraction-free-youtube-669": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-linux-distraction-free-youtube-007-93a"
+  },
+  "/joriscodes/linux/global-playback-control-5d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-linux-global-playback-control-920-ab5"
+  },
+  "/joriscodes/linux/Scripting/ArchMaintenance-ef7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-linux-scripting-arch-maintenance-7-fb-05e"
+  },
+  "/joriscodes/linux/Scripting/ScreenShot-5e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---joriscodes-linux-scripting-screen-shotd-33-e89"
   },
   "/joriscodes/linux/thunar-text-file-bc4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---joriscodes-linux-thunar-text-file-55-b-c28"
   },
-  "/joriscodes/programming/intro-890": {
+  "/joriscodes/programming/cpp-version-c97": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---joriscodes-programming-intro-567-c4c"
+    "content": "content---joriscodes-programming-cpp-version-2-bc-25b"
   },
   "/joriscodes/software/Firefox/extensions-165": {
     "__comp": "__comp---theme-doc-item-178-a40",

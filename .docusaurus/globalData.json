@@ -16,8 +16,33 @@
               "sidebar": "docsSidebar"
             },
             {
-              "id": "linux/Scripting/arch-maintanence",
-              "path": "/joriscodes/linux/Scripting/arch-maintanence",
+              "id": "linux/automounting",
+              "path": "/joriscodes/linux/automounting",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/compose-key",
+              "path": "/joriscodes/linux/compose-key",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/distraction-free-youtube",
+              "path": "/joriscodes/linux/distraction-free-youtube",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/global-playback-control",
+              "path": "/joriscodes/linux/global-playback-control",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/Scripting/ArchMaintenance",
+              "path": "/joriscodes/linux/Scripting/ArchMaintenance",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "linux/Scripting/ScreenShot",
+              "path": "/joriscodes/linux/Scripting/ScreenShot",
               "sidebar": "docsSidebar"
             },
             {
@@ -26,8 +51,8 @@
               "sidebar": "docsSidebar"
             },
             {
-              "id": "programming/intro",
-              "path": "/joriscodes/programming/intro",
+              "id": "programming/cpp-version",
+              "path": "/joriscodes/programming/cpp-version",
               "sidebar": "docsSidebar"
             },
             {

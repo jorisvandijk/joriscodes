@@ -3,7 +3,7 @@ tags: [Linux, YouTube, MPV, Newsboat]
 ---
 
 # Distraction free YouTube videos
-I'm trying to only enjoy content I like. I try not to get involved in social media. Not to get into that trap of watching one thing followed by the next, and then the next thing. I don't do Twiter, I don't do Facebook, I don't do Instagram, I don't do Tiktok. I do like some content on YouTube. This presents me with a problem. If I were to go to the site they offer, I'd watch the video I came for and then I'd watch the next one they offer, and then the following and then... well, you get the idea. This is a rabbit hole I want to not get into. Hence I found a solution to this, by making sure I only watch what I like and nothing more.
+I'm trying to only enjoy content I like. I try not to get involved in social media. Not to get into that trap of watching one thing followed by the next, and then the next thing. I don't do Twitter, I don't do Facebook, I don't do Instagram, I don't do Tiktok. I do like some content on YouTube. This presents me with a problem. If I were to go to the site they offer, I'd watch the video I came for and then I'd watch the next one they offer, and then the following and then... well, you get the idea. This is a rabbit hole I want to not get into. Hence I found a solution to this, by making sure I only watch what I like and nothing more.
 
 **<center>Never open the YouTube website in your browser.</center>**
 
@@ -29,7 +29,7 @@ MPV and the two YT-DLP packages are a matter of installing and forgetting. We wi
 ## Newsboat
 We'll be using [Newsboat](https://newsboat.org/), which is an RSS reader. This program make it possible for us to get notified when one of our YouTube people post a new video and for us to then watch it without having to open a browser. 
 
-Newsboat stores it's configs in **$HOME/.config/newsboat**. By default Newsboat doesn't create this directory or its content. To get going we'll create some files and directories.
+Newsboat stores its configs in **$HOME/.config/newsboat**. By default Newsboat doesn't create this directory or its content. To get going we'll create some files and directories.
 ```bash
 mkdir $HOME/.config/newsboat && mkdir $HOME/.config/newsboat/scripts
 ```

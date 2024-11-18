@@ -7,7 +7,7 @@ Everyone handles backing up their dotfiles in their own way. Some people use GNU
 
 First, if you're unaware what dotfiles are, I've explained them before as such:
 
->Dotfiles are the configuration files used on your Linux system. They are usually denoted with a dot/period in front of them, which makes them invisible. Because of this character these configuration files are knows as dotfiles. 
+>Dotfiles are the configuration files used on your Linux system. They are usually denoted with a dot/period in front of them, which makes them invisible. Because of this character these configuration files are known as dotfiles. 
 
 I don't like symlinks and I don't want to have copies of files on my drive. So here's how I manage them.
 

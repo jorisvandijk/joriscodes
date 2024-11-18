@@ -120,7 +120,7 @@ sudo chown -R [username] /media
 Where `[username]` would be your own username, obviously. 
 
 ## Reboot
-Reboot to see it it all went fine. 
+Reboot to see if it all went fine. 
 
 :::warning
 If there was a problem your system might not boot. You can edit fstab through a TTY at `/etc/fstab`.

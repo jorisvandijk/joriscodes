@@ -12,7 +12,7 @@ So I went through the article and found that some of these things I already do, 
 #!/usr/bin/env bash
 
 #	ArchMaintainer 1.4
-#	Preforms maintenance and removes excess stuff from Arch. 
+#	Performs maintenance and removes excess stuff from Arch. 
 #	Dependencies: pacman, git, pacman-contrib, rankmirrors
 #
 #	By Joris van Dijk | Jorisvandijk.com

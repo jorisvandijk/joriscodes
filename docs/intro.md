@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Welcome
-This website is a collection of notes, tips and tricks that I've collected over the years. It mainly focusses on Linux, software, coding, programming and other computer related topics. It is a second brain, if you will. Feel free to use it for your own purposes. If you have any suggestions, questions or other feedback, please let me know.
+This website is a collection of notes, tips and tricks that I've collected over the years. It mainly focuses on Linux, software, coding, programming and other computer related topics. It is a second brain, if you will. Feel free to use it for your own purposes. If you have any suggestions, questions or other feedback, please let me know.
 
 ## Dotfiles
 I have several computers and for now they use different dotfiles. Currently my Thinkpad dotfiles are most up to date. In the future I will streamline this somehow.

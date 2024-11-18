@@ -8,7 +8,7 @@ tags: [Linux]
 [Image by iconixar - Flaticon](https://www.flaticon.com/free-icons/google-play-movie)
 </center>
 
-So say you have this directory filled with directories containing movies you legally ripped from your own collection of DVDs and BluRays. Each directory has a movie in it, but maybe also some other stuff you accidentally added to it, stuff you don't need. This will not do. Let's clean up this mess.
+So say you have this directory filled with directories containing movies you legally ripped from your own collection of DVDs and BluRays. Each directory has a movie in it, along with other unnecessary files you may have accidentally added.This will not do. Let's clean up this mess.
 
 Make a new directory (outside of the directory containing the mess) to store the stuff to keep in.
 

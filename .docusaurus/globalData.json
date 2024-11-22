@@ -51,6 +51,11 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "linux/Scripting/barless",
+              "path": "/linux/Scripting/barless",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "linux/Scripting/ScreenShot",
               "path": "/linux/Scripting/ScreenShot",
               "sidebar": "docsSidebar"

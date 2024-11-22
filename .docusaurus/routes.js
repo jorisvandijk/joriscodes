@@ -79,11 +79,11 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '116'),
+    component: ComponentCreator('/', '5d1'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'de4'),
+        component: ComponentCreator('/', '9d4'),
         routes: [
           {
             path: '/tags',
@@ -172,7 +172,7 @@ export default [
           },
           {
             path: '/',
-            component: ComponentCreator('/', '39e'),
+            component: ComponentCreator('/', 'cd4'),
             routes: [
               {
                 path: '/category/linux',
@@ -231,6 +231,12 @@ export default [
               {
                 path: '/linux/Scripting/ArchMaintenance',
                 component: ComponentCreator('/linux/Scripting/ArchMaintenance', '639'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/linux/Scripting/barless',
+                component: ComponentCreator('/linux/Scripting/barless', '23b'),
                 exact: true,
                 sidebar: "docsSidebar"
               },

@@ -24,7 +24,7 @@ bindsym  $mod+Right exec --no-startup-id playerctl next
 This means that, no matter the desktop I am on, I'll be able to stop playback with a keybinding, or at least, for applications that support this.
 
 ## MPV
-My video player of choice is [MPV](https://mpv.io/), but one downside of it is that it does not support MPRIS. Luckily Ho-Yon Mak decided this was a massive oversight as well and made a plugin named [MPV-MPRIS](https://github.com/hoyon/mpv-mpris). It will, like magic, enable the use of my beloved keybindings for MPV. It is availible in [most](https://repology.org/project/mpv-mpris/versions) Linux distributions package managers. For Arch, this is how to install it:
+My video player of choice is [MPV](https://mpv.io/), but one downside of it is that it does not support MPRIS. Luckily Ho-Yon Mak decided this was a massive oversight as well and made a plugin named [MPV-MPRIS](https://github.com/hoyon/mpv-mpris). It will, like magic, enable the use of my beloved keybindings for MPV. It is available in [most](https://repology.org/project/mpv-mpris/versions) Linux distributions package managers. For Arch, this is how to install it:
 
 ```bash
 sudo pacman -S mpv-mpris

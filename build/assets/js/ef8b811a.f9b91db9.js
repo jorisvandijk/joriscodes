@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8947],{6600:s=>{s.exports=JSON.parse('{"authors":[{"name":"Joris van Dijk","title":"Living on Linux","url":"https://jorisvandijk.com","page":{"permalink":"/blog/authors/joris"},"imageURL":"/img/mrgreen.png","key":"joris","count":1}]}')}}]);

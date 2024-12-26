@@ -1,287 +1,264 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/blog-321": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-0-c-7-680"
+        "content": "0c767385"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "c15d9823"
   },
   "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "f81c1134"
   },
   "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
   },
   "/blog/authors/joris-8f9": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---blog-0-c-7-680"
+        "content": "0c767385"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-jorisd-37-e50"
+    "sidebar": "814f3328",
+    "__props": "d37a8634"
   },
   "/blog/hello-world-69f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-hello-worldafb-0af"
+    "sidebar": "814f3328",
+    "content": "afb13471"
   },
   "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "3a2db09e"
   },
   "/blog/tags/docusaurus-478": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-0-c-7-680"
+        "content": "0c767385"
       }
     ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
+    "__props": "3217192f"
   },
   "/search-5de": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__comp": "1a4e3797",
     "__context": {
-      "plugin": "plugin---searchc-14-0ea"
+      "plugin": "c141421f"
     }
   },
-  "/-5d1": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/-f9c": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---aba-d70"
+      "plugin": "aba21aa0"
     }
   },
-  "/-9d4": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+  "/-ac5": {
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
   },
   "/tags-ce1": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---tags-59-a-1ee"
+    "__comp": "3720c009",
+    "__props": "59af61a6"
   },
   "/tags/arch-2a3": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-arch-285-03f"
+    "__comp": "df203c0f",
+    "__props": "2853f6c3"
   },
   "/tags/c-681": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-ccbe-232"
+    "__comp": "df203c0f",
+    "__props": "cbe23eca"
   },
   "/tags/dotfiles-696": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-dotfiles-4-b-6-4a5"
+    "__comp": "df203c0f",
+    "__props": "4b6cf7dd"
   },
   "/tags/firefox-1b1": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-firefoxb-06-2d4"
+    "__comp": "df203c0f",
+    "__props": "b0676fe4"
   },
   "/tags/fzf-15a": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-fzfda-6-9cd"
+    "__comp": "df203c0f",
+    "__props": "da6fe824"
   },
   "/tags/git-ff3": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-git-609-0f0"
+    "__comp": "df203c0f",
+    "__props": "6095d2ed"
   },
   "/tags/kitty-904": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-kittycb-0-a06"
+    "__comp": "df203c0f",
+    "__props": "cb0b878b"
   },
   "/tags/linux-371": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-linuxd-0-a-f3a"
+    "__comp": "df203c0f",
+    "__props": "d0a33d37"
   },
   "/tags/micro-21f": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-micro-3-e-6-e95"
+    "__comp": "df203c0f",
+    "__props": "3e648617"
   },
   "/tags/mpv-912": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-mpvb-48-4cc"
+    "__comp": "df203c0f",
+    "__props": "b48ff255"
   },
   "/tags/newsboat-968": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-newsboatd-85-36b"
+    "__comp": "df203c0f",
+    "__props": "d8547d76"
   },
   "/tags/programming-4c2": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-programming-992-4cf"
+    "__comp": "df203c0f",
+    "__props": "992b1630"
   },
   "/tags/scripting-247": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-scriptingb-02-b33"
+    "__comp": "df203c0f",
+    "__props": "b0293bdc"
+  },
+  "/tags/server-e9e": {
+    "__comp": "df203c0f",
+    "__props": "90845871"
+  },
+  "/tags/ssh-079": {
+    "__comp": "df203c0f",
+    "__props": "5623fd28"
   },
   "/tags/sxhkd-a27": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-sxhkde-62-e87"
+    "__comp": "df203c0f",
+    "__props": "e62d79ae"
   },
   "/tags/thunar-dea": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-thunar-682-185"
+    "__comp": "df203c0f",
+    "__props": "682e53f2"
   },
   "/tags/you-tube-574": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---tags-you-tubeb-3-a-2ec"
+    "__comp": "df203c0f",
+    "__props": "b3ac1771"
   },
-  "/-cd4": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/-906": {
+    "__comp": "a94703ab"
   },
   "/category/linux-942": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-linux-9-ac-d8f"
+    "__comp": "14eb3368",
+    "__props": "9ac50952"
   },
   "/category/programming-93f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-programming-94-f-2a2"
+    "__comp": "14eb3368",
+    "__props": "94f75ce1"
   },
   "/category/software-fc4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-software-9-c-0-e6e"
+    "__comp": "14eb3368",
+    "__props": "9c0b1b0c"
   },
-  "/linux/automounting-000": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-automountingc-03-842"
+  "/linux/automounting-591": {
+    "__comp": "17896441",
+    "content": "c0312afe"
   },
-  "/linux/compose-key-c09": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-compose-key-6-ea-49a"
+  "/linux/compose-key-340": {
+    "__comp": "17896441",
+    "content": "6ea496ab"
   },
-  "/linux/distraction-free-youtube-b7e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-distraction-free-youtube-007-8eb"
+  "/linux/distraction-free-youtube-2a2": {
+    "__comp": "17896441",
+    "content": "0075ece8"
   },
-  "/linux/fzf-and-arch-software-install-955": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-fzf-and-arch-software-install-84-a-287"
+  "/linux/fzf-and-arch-software-install-f73": {
+    "__comp": "17896441",
+    "content": "84a42bbf"
   },
-  "/linux/global-playback-control-e6b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-global-playback-control-920-87c"
+  "/linux/global-playback-control-397": {
+    "__comp": "17896441",
+    "content": "92054bef"
   },
-  "/linux/managing-dotfiles-7e9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-managing-dotfiles-901-8a0"
+  "/linux/managing-dotfiles-ffb": {
+    "__comp": "17896441",
+    "content": "901bd31e"
   },
-  "/linux/Scripting/ArchMaintenance-639": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-scripting-arch-maintenance-7-fb-7b8"
+  "/linux/passkey-ssh-3b2": {
+    "__comp": "17896441",
+    "content": "b87f121f"
   },
-  "/linux/Scripting/barless-23b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-scripting-barlessfb-0-c8f"
+  "/linux/Scripting/ArchMaintenance-fdd": {
+    "__comp": "17896441",
+    "content": "7fb5fd99"
   },
-  "/linux/Scripting/ScreenShot-e6d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-scripting-screen-shotd-33-8d7"
+  "/linux/Scripting/barless-a51": {
+    "__comp": "17896441",
+    "content": "fb0f2140"
   },
-  "/linux/sorting-movie-directory-d9c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-sorting-movie-directory-9-ac-b7b"
+  "/linux/Scripting/ScreenShot-b04": {
+    "__comp": "17896441",
+    "content": "d3345b2c"
   },
-  "/linux/thunar-text-file-fd8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---linux-thunar-text-file-55-b-8c1"
+  "/linux/sorting-movie-directory-c1a": {
+    "__comp": "17896441",
+    "content": "9ac40a9a"
   },
-  "/programming/cpp-version-f98": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programming-cpp-version-2-bc-c8c"
+  "/linux/thunar-text-file-6a3": {
+    "__comp": "17896441",
+    "content": "55bd3314"
   },
-  "/software/Firefox/extensions-cd7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-firefox-extensionsc-5-b-0fc"
+  "/programming/cpp-version-29e": {
+    "__comp": "17896441",
+    "content": "2bc64597"
   },
-  "/software/Firefox/userChrome-a7c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-firefox-user-chromee-9-e-8aa"
+  "/programming/ST32-F303RE/GPIO-fb9": {
+    "__comp": "17896441",
+    "content": "5e8280eb"
   },
-  "/software/Git/http-to-ssg-1d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-git-http-to-ssgee-0-aeb"
+  "/software/Firefox/extensions-01a": {
+    "__comp": "17896441",
+    "content": "c5beb473"
   },
-  "/-8f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---0-e-3-279"
+  "/software/Firefox/userChrome-e01": {
+    "__comp": "17896441",
+    "content": "e9ec1ca8"
+  },
+  "/software/Git/http-to-ssg-c21": {
+    "__comp": "17896441",
+    "content": "ee0ea7c4"
+  },
+  "/software/Git/tips-449": {
+    "__comp": "17896441",
+    "content": "545f4efd"
+  },
+  "/-ac8": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   }
 }

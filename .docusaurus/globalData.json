@@ -46,6 +46,11 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "linux/passkey-ssh",
+              "path": "/linux/passkey-ssh",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "linux/Scripting/ArchMaintenance",
               "path": "/linux/Scripting/ArchMaintenance",
               "sidebar": "docsSidebar"
@@ -76,6 +81,11 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "programming/ST32-F303RE/GPIO",
+              "path": "/programming/ST32-F303RE/GPIO",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "software/Firefox/extensions",
               "path": "/software/Firefox/extensions",
               "sidebar": "docsSidebar"
@@ -88,6 +98,11 @@
             {
               "id": "software/Git/http-to-ssg",
               "path": "/software/Git/http-to-ssg",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "software/Git/tips",
+              "path": "/software/Git/tips",
               "sidebar": "docsSidebar"
             },
             {

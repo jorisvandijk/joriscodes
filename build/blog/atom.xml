@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jorisvandijk.github.io/blog</id>
+    <title>Joris.codes Blog</title>
+    <updated>2024-11-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jorisvandijk.github.io/blog"/>
+    <subtitle>Joris.codes Blog</subtitle>
+    <icon>https://jorisvandijk.github.io/img/mrgreen.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://jorisvandijk.github.io/blog/hello-world</id>
+        <link href="https://jorisvandijk.github.io/blog/hello-world"/>
+        <updated>2024-11-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've written a number of Hello World posts in the past and I doubt this will be the last one. This time around I'm writing it to welcome this new website focused on storing knowledge. A second brain, if you will. It will focus mostly on Linux, programming, software and other things I find interesting.]]></summary>
+        <content type="html"><![CDATA[<p>I've written a number of Hello World posts in the past and I doubt this will be the last one. This time around I'm writing it to welcome this new website focused on storing knowledge. A second brain, if you will. It will focus mostly on Linux, programming, software and other things I find interesting.</p>
+<p>This website is built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> and is hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>, though I am linking to the <a href="https://codeberg.org/jorisvandijk/joriscodes" target="_blank" rel="noopener noreferrer">Codeberg repository</a> as the source, as that mirrors to GitHub (Don't ask).</p>
+<p>The content of this site is taken mostly from my website at <a href="https://jorisvandijk.com/" target="_blank" rel="noopener noreferrer">Jorisvandijk.com</a>, which this may replace at some point. I realized that the knowledge stored there was hard to find, for me and hence probably also for others. I found myself going back to the site and endlessly searching for things and I thought: why not make this easier?</p>
+<p>Enter Docusaurus. I had heard of it before, but never really looked into it. It's a static site generator, but with a twist: it's built for creating documentation websites, but it's also perfectly at home creating blog posts. The huge red flag it has, is that it is build by Meta, the company behind Facebook. So before I took the plunge, I looked at and tried many alternatives, like <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>, <a href="https://vuepress.vuejs.org/" target="_blank" rel="noopener noreferrer">VuePress</a>, <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> and <a href="https://www.getzola.org/" target="_blank" rel="noopener noreferrer">Zola</a> and several others. None of them worked for me. Either they were too simple, or needed too much hacking to make them work as I wanted them to.</p>
+<p>Reluctantly I started looking into Docusaurus, but I was pleasantly surprised. It has a very clean and modern look to it, and the documentation is great. It has a very developer-friendly approach to building websites and most importantly, it is not Meta, it is <a href="https://opensource.fb.com/" target="_blank" rel="noopener noreferrer">Meta Open Source</a>. This means that while it is backed by Meta, it is still open source software, making it acceptable for me to use.</p>
+<p>In the future I will be adding more content to the site. Mostly I will be adding to the documentation, as that is the main purpose of this site. But I also plan on adding more blog posts, maybe even some random thoughts and I might also port old blog posts from the other website over as well. We'll see.</p>
+<p>For now enjoy this website and I hope you find it useful. If you have any suggestions, questions or other feedback, please let me know.</p>]]></content>
+        <author>
+            <name>Joris van Dijk</name>
+            <uri>https://jorisvandijk.com</uri>
+        </author>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+</feed>

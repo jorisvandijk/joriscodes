@@ -86,6 +86,11 @@
               "sidebar": "docsSidebar"
             },
             {
+              "id": "server/arr",
+              "path": "/server/arr",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "software/Firefox/extensions",
               "path": "/software/Firefox/extensions",
               "sidebar": "docsSidebar"
@@ -118,6 +123,11 @@
             {
               "id": "/category/software",
               "path": "/category/software",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/server",
+              "path": "/category/server",
               "sidebar": "docsSidebar"
             }
           ],

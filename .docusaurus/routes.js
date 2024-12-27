@@ -44,11 +44,11 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'f9c'),
+    component: ComponentCreator('/', 'd53'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'ac5'),
+        component: ComponentCreator('/', 'e19'),
         routes: [
           {
             path: '/tags',
@@ -58,6 +58,11 @@ export default [
           {
             path: '/tags/arch',
             component: ComponentCreator('/tags/arch', '2a3'),
+            exact: true
+          },
+          {
+            path: '/tags/arr',
+            component: ComponentCreator('/tags/arr', '166'),
             exact: true
           },
           {
@@ -141,13 +146,18 @@ export default [
             exact: true
           },
           {
+            path: '/tags/usenet',
+            component: ComponentCreator('/tags/usenet', 'bad'),
+            exact: true
+          },
+          {
             path: '/tags/you-tube',
             component: ComponentCreator('/tags/you-tube', '574'),
             exact: true
           },
           {
             path: '/',
-            component: ComponentCreator('/', '906'),
+            component: ComponentCreator('/', '249'),
             routes: [
               {
                 path: '/category/linux',
@@ -158,6 +168,12 @@ export default [
               {
                 path: '/category/programming',
                 component: ComponentCreator('/category/programming', '93f'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/category/server',
+                component: ComponentCreator('/category/server', 'ef2'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
@@ -205,7 +221,7 @@ export default [
               },
               {
                 path: '/linux/passkey-ssh',
-                component: ComponentCreator('/linux/passkey-ssh', '3b2'),
+                component: ComponentCreator('/linux/passkey-ssh', 'c10'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
@@ -247,7 +263,13 @@ export default [
               },
               {
                 path: '/programming/ST32-F303RE/GPIO',
-                component: ComponentCreator('/programming/ST32-F303RE/GPIO', 'fb9'),
+                component: ComponentCreator('/programming/ST32-F303RE/GPIO', '193'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/server/arr',
+                component: ComponentCreator('/server/arr', '8c1'),
                 exact: true,
                 sidebar: "docsSidebar"
               },

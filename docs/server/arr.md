@@ -7,17 +7,17 @@ Usenet is interesting and useful. Let's not get into it too much. For now, focus
 
 ## Services
 The following run on the server:
-- Sonarr : For series.
-- Radarr : For movies.
-- Lidarr : For music.
-- Bazarr : For subtitles.
+- **Sonarr** for series;
+- **Radarr** for movies;
+- **Lidarr** for music;
+- **Bazarr** for subtitles.
 
-**Price:** _free_
+**Price:** _Free_
 
 ## Download client
 In order to actually get content, one needs a download client. This is what connects to usenet and grabs the content. `SABnzbd` is a terrible name, but it is the one used on the server.
 
-**Price:** _free_
+**Price:** _Free_
 
 ## Indexer
 Unfortunately, in order for the `services` to actually search usenet, they need an _indexer_. This is a bit of paid software that will search usenet for the service looking. This server uses `NZBGeek`.

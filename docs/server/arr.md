@@ -34,6 +34,11 @@ This is a requirement for me, as without subtitles, I am not allowed to ditch Ne
 
 **Price:** _About 20 bucks a year_
 
+## Jellyfin
+I want to be able to enjoy the content on my TV, obviously. For this `Jellyfin` is the solution.
+
+**Price:** _Free_
+
 ## Total cost
 82 bucks a year. That's 7-ish bucks a month. Netflix is costing about 15 a month over here at the time of writing. So doing it yourself, while more work, does mean it's half the cost. Sure, you need to have a server and storage space, but you also own the content and it won't vanish on someone else's whim. This would have been cheaper still if the 20 for subtitles could be dropped. You're looking at a little over 5 a month then.
 
